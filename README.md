@@ -1,1 +1,4 @@
-# alamat
+bantul
+yokyakarta
+waringin
+kotagede
