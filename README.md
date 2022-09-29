@@ -6,3 +6,5 @@ mkw
 concat
 janti
 ceturan
+babarsari
+klodokan
